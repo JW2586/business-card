@@ -1,4 +1,4 @@
-# 💳 My curl-able business card 💳
+# 💳 My cURL-able business card 💳
 
 ## Usage
 
